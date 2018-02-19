@@ -1,3 +1,6 @@
+# checks if number is prime or not 
+# if prime returns true else false 
+
 def isprime(n)
 	if n == 1
 		return false 
@@ -21,7 +24,7 @@ end
 
 
 
-
+# Test cases 
 i = 1 
 loop do 
 	puts isprime(i)

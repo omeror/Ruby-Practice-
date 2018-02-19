@@ -1,3 +1,4 @@
+# ask for two numbers then adds them 
 print "Give me a number: "
 
 first_num = gets.to_i

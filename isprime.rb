@@ -1,3 +1,4 @@
+#Omer Omer 
 # checks if number is prime or not 
 # if prime returns true else false 
 
